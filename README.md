@@ -1,8 +1,11 @@
-### [M06 Company](https://m06.company) | Where software meets data science to help you.
+### ![Alt text](https://cdn.m06.cloud/csi-fs/ba995b8b-218c-4291-b756-a3fed98c422d/media/m06-company-text-logo.svg)
+[M06 Company](https://m06.company) | Where software meets data science to help you.
 
-### [M06 Cloud Platform](https://m06.cloud) | Create and Manage Cloud Applications Faster | Build your next webshop, mobile app or favourite custom SaaS solution.
+### ![Alt text](https://cdn.m06.cloud/csi-fs/8a9ef1d1-6df1-489f-b6a3-6cc0745c03fe/media/m06-cloud-platform-text-logo.svg)
+[M06 Cloud Platform](https://m06.cloud) | Create and Manage Cloud Applications Faster | Build your next webshop, mobile app or favourite custom SaaS solution.
 
-### [M06 Cloud APIs](https://apis.m06.cloud) | A set of APIs built with scalability in mind to help your business do more.
+### ![Alt text](https://cdn.m06.cloud/csi-fs/c016a00d-2343-4880-bddc-cd3353529393/media/m06-cloud-apis-text-logo.svg)
+[M06 Cloud APIs](https://apis.m06.cloud) | A set of APIs built with scalability in mind to help your business do more.
 <!--
 **MahmoudAljabary/MahmoudAljabary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
